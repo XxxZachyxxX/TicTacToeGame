@@ -1,26 +1,25 @@
-x64/
-
-
-build/
-
-
-obj/
-bin/
-
-
-*.tmp
-*.log
-
-
-
-*.suo
-*.user
-
-
-TicTacTo.c49097f3
-todo
-
-
+# CMake build files
+/build/
 CMakeFiles/
 CMakeCache.txt
 *.cmake
+
+# Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+x64/
+
+# Object files
+*.obj
+
+# Executables
+*.exe
+
+# Temporary files
+*.tmp
+*.log
+
+# Other
+*.user
+*.suo
