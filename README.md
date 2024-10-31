@@ -1,1 +1,1 @@
-Its my first game in SFML
+This project was my very first game that I made with SFML and I am very proud of it. Since it is the first time that I have created a game from scratch, I want to publish my source code to get good feedback. I know that my code may not be very well structured but that is why I want someone to look at my code and give me feedback.
