@@ -1,0 +1,3 @@
+C:/Users/Joel Fritsch/source/repos/TicTacToeGame_Remade - BackUP/build/CMakeFiles/TicTacToe.dir
+C:/Users/Joel Fritsch/source/repos/TicTacToeGame_Remade - BackUP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Joel Fritsch/source/repos/TicTacToeGame_Remade - BackUP/build/CMakeFiles/ZERO_CHECK.dir
