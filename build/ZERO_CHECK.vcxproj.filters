@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Joel Fritsch\source\repos\TicTacToeGame_Remade - BackUP\build\CMakeFiles\8502c4d6f28f562406b8d4c08fbace11\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{924B9C50-1A4F-3E3A-BCC7-0FCAD2EB26EE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
